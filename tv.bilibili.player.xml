@@ -123,4 +123,5 @@
 <item enabled="true">r=^.{0,2}终于</item>
 <item enabled="true">r=别.{1,2}了</item>
 <item enabled="true">r=(.)[^\1]\1</item>
+<item enabled="true">r=^[^他她它]?已经</item>
 </filters>
