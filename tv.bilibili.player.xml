@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
 <filters>
 <item enabled="true">t=弹幕</item>
 <item enabled="true">t=♂</item>
@@ -124,4 +125,28 @@
 <item enabled="true">r=别.{1,2}了</item>
 <item enabled="true">r=(.)[^\1]\1</item>
 <item enabled="true">r=^[^他她它]?已经</item>
+<item enabled="true">t=谁是</item>
+<item enabled="true">t=是谁</item>
+<item enabled="true">t=居然</item>
+<item enabled="true">r=^说.{7,20}就</item>
+<item enabled="true">r=好.{1}[.。]*$</item>
+<item enabled="true">r=阿$</item>
+<item enabled="true">r=^想</item>
+<item enabled="true">r=^就</item>
+<item enabled="true">r=就.{1,2}了</item>
+<item enabled="true">t=该不会</item>
+<item enabled="true">t=作死</item>
+<item enabled="true">t=作大死</item>
+<item enabled="true">r=要.{1}了</item>
+<item enabled="true">t=猪</item>
+<item enabled="true">t=机智如</item>
+<item enabled="true">r=^为</item>
+<item enabled="true">t=神助攻</item>
+<item enabled="true">t=进度条</item>
+<item enabled="true">t=到此一游</item>
+<item enabled="true">t=飘了</item>
+<item enabled="true">r=^.{0,3}表示</item>
+<item enabled="true">r=(..)[^\1]{0,5}\1{1}</item>
+<item enabled="true">t=开花</item>
+<item enabled="true">t=算了</item>
 </filters>
