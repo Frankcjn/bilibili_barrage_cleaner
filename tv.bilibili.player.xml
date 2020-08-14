@@ -331,6 +331,16 @@
 <item enabled="true">t=的时间</item>
 <item enabled="true">t=前方</item>
 <item enabled="true">t=国足</item>
+<item enabled="true">t=活着</item>
+<item enabled="true">t=留影</item>
+<item enabled="true">t=肯定</item>
+<item enabled="true">t=只是</item>
+<item enabled="true">t=盲猜</item>
+<item enabled="true">t=应该</item>
+<item enabled="true">t=牛B</item>
+<item enabled="true">t=感觉要</item>
+<item enabled="true">t=副本</item>
+<item enabled="true">t=破站</item>
 <item enabled="true">r=([^:punct:]+)\1{1,}</item>
 <item enabled="true">r=(.)\1{2,}</item>
 <item enabled="true">r=((0\.5)|(1\.25)|(1\.5)|2|5)倍</item>
@@ -360,15 +370,7 @@
 <item enabled="true">r=^\b\w+\b[|\|~|。|\|.|、|了]*$</item>
 <item enabled="true">r=^\s+[|\|~|。|\|.|、|了]*$</item>
 <item enabled="true">r=[也|讲究|乱入|系列|警告|赞|上线|赛艇|不服|的日常|在此|的|来|可以|ing|～|先|中|卡|作][\|~|。|\|.|、|了]*$</item>
-<item enabled="true">t=活着</item>
 <item enabled="true">r=有.*的不</item>
-<item enabled="true">t=留影</item>
-<item enabled="true">t=肯定</item>
-<item enabled="true">t=只是</item>
-<item enabled="true">t=盲猜</item>
-<item enabled="true">t=应该</item>
-<item enabled="true">t=牛B</item>
-<item enabled="true">t=感觉要</item>
-<item enabled="true">t=副本</item>
-<item enabled="true">r=^.{0,2}[草|在|来|很|快|都|超|终于|可|就|多|别|莫|以|太]</item>
+<item enabled="true">r=^.{0,2}[草|在|来|很|快|都|超|终于|可|就|多|别|莫|以]</item>
+<item enabled="true">r=跟.{1,4}了</item>
 </filters>
